@@ -1,0 +1,14 @@
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\bin\Debug\RaceDay.exe
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\bin\Debug\RaceDay.pdb
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\obj\x86\Debug\RaceDay.Form1.resources
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\obj\x86\Debug\RaceDay.Properties.Resources.resources
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\obj\x86\Debug\RaceDay.csproj.GenerateResource.Cache
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\obj\x86\Debug\RaceDay.exe
+C:\Users\Lori\AppData\Local\Temporary Projects\RaceDay\obj\x86\Debug\RaceDay.pdb
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\obj\x86\Debug\RaceDay.exe
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\obj\x86\Debug\RaceDay.pdb
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\bin\Debug\RaceDay.exe
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\bin\Debug\RaceDay.pdb
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\obj\x86\Debug\RaceDay.Form1.resources
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\obj\x86\Debug\RaceDay.Properties.Resources.resources
+C:\Lori\C-sharp\Projects\RaceDay\RaceDay\RaceDay\obj\x86\Debug\RaceDay.csproj.GenerateResource.Cache
